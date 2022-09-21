@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.p404.Covers"
+    package="com.elytra.Covers"
     android:versionCode="31"
     android:versionName="2.0" >
 
